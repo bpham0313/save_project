@@ -12,6 +12,8 @@ The program can be executed by running the .exe file ./x64/Release/
 The program will ask for hostname (localhost:xxxx), username, and password to access the database. 
 
 *Results:
+
+
 Hostname: localhost:3306
 User: root
 
